@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Super Quiz Interativo - QA
 
 Este projeto é um **quiz interativo** desenvolvido com HTML, CSS e JavaScript, voltado para a **revisão de conteúdos da disciplina de Qualidade de Software**. Ele foi criado com o objetivo de auxiliar os alunos da turma — incluindo o próprio autor — a estudar de forma mais leve, dinâmica e prática.
