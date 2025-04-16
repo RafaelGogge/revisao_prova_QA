@@ -70,6 +70,6 @@ Desenvolvido por **Rafael Vieira Gogge**, como parte da revisão para a prova de
 
 ## 📚 Créditos
 
-Conteúdo baseado no material de revisão da disciplina e nos conceitos fundamentais de Engenharia de Software e Métodos Ágeis do professor Lucas: Projeto e Qualidade em Engenharia Software (GERENCIAL13 - 25/1).
-- link para o conteúdo: https://unisales.grupoa.education/plataforma/course/2773352
+Conteúdo baseado no material de revisão da disciplina e nos conceitos fundamentais de Engenharia de Software e Métodos Ágeis do professor Lucas.
+
 ```
